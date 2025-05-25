@@ -1,0 +1,31 @@
+# Wheel file from URL
+https://cloudai.cirrascale.com/sdk/_downloads/3433649516f5c32f3603ae6f98c65e48/imagine_sdk-0.4.2-py3-none-any.whl
+
+# Extras for the wheel file
+imagine_sdk[langchain]
+imagine_sdk[crewai]
+pip
+ipython
+ipykernel
+ipywidgets
+jupyter
+jupyterlab
+gradio
+langchain
+duckduckgo-search
+langchain-community
+dashscope
+modelscope_studio~=1.0.0b
+arxiv
+openai
+autogen
+google-search-results
+streamlit
+chromadb
+google-search-results
+markdown-pdf
+yfinance
+pandas
+reportlab
+matplotlib
+crawl4ai

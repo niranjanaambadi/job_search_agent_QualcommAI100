@@ -5,6 +5,7 @@ https://cloudai.cirrascale.com/sdk/_downloads/3433649516f5c32f3603ae6f98c65e48/i
 imagine_sdk[langchain]
 imagine_sdk[crewai]
 pip
+schedule
 ipython
 ipykernel
 ipywidgets
